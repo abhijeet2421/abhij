@@ -1,5 +1,5 @@
 <?php 
-require('config.php');
+
 require('function.inc.php');
 ?>
 <!DOCTYPE html>
