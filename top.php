@@ -1,5 +1,5 @@
 <?php 
-
+require('connect.php');
 require('function.inc.php');
 ?>
 <!DOCTYPE html>
